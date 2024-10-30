@@ -1,0 +1,79 @@
+# Colore Barra Notizie
+msgid "News Bar Color"
+msgstr "News Bar Color"
+
+# Colore Barra Titolo
+msgid "Bar Title Color"
+msgstr "Title Bar Color"
+
+# Colore Link Notizie
+msgid "News Link Color"
+msgstr "News Link Color"
+
+# Colore Notizie
+msgid "News Color"
+msgstr "News Color"
+
+# Colore Titolo
+msgid "Title Color"
+msgstr "Title Color"
+
+# Dettagliato
+msgid "Detailed"
+msgstr "Detailed"
+
+# Dimensione Barra
+msgid "Bar Width"
+msgstr "Bar Width"
+
+# Filtro delle Notizie da Visualizzare
+msgid  "News Filter"
+msgstr "News Filter"
+
+# Header Pagina Impostazioni
+msgid "Here you customize your Breaking News WP bar settings:"
+msgstr "Here you customize your Breaking News WP bar settings:"
+
+# Numero Massimo di Notizie da Visualizzare
+msgid "News Max Number"
+msgstr "News Max Number"
+
+# Reset Valori
+msgid "Settings restored successfully"
+msgstr "Settings restored successfully"
+
+# Salva Modifiche
+msgid "Save Changes"
+msgstr "Save Changes"
+
+# Semplice
+msgid "Simple"
+msgstr "Simple"
+
+# Stile Personalizzato
+msgid "Custom Style"
+msgstr "Custom Style"
+
+# Supporto
+msgid "For support or specific requests contact:"
+msgstr "For support or specific requests contact:"
+
+# Tema
+msgid "Choose Theme"
+msgstr "Choose Theme"
+
+# Testo Personalizzato
+msgid "Custom Text"
+msgstr "Custom Text"
+
+# Testo Personalizzato Messaggio
+msgid "Do you want to use a custom text?"
+msgstr "Do you want to use a custom text?"
+
+# Titolo delle News
+msgid "News Bar Title"
+msgstr "News Bar Title"
+
+# Titolo Pagina Impostazioni
+msgid "Breaking News WP settings"
+msgstr "Breaking News WP settings"
